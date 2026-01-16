@@ -4,7 +4,7 @@
   
   **Распределенная система обработки почтовых заявок на Python**
 
-  ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
+  ![Python Version](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python)
   ![Protocol](https://img.shields.io/badge/Protocol-TCP%20%7C%20SMTP%20%7C%20IMAP-orange?style=for-the-badge)
   ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
